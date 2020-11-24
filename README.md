@@ -1,7 +1,7 @@
 NotSoForensicTool - University Project
 
 ***Description***<br>
-A basic forensics tool written in Python for the purposes of a mini-project in the Programming classes at the University. It can be used both with the command line<br>
+A basic forensics tool written in Python for the purposes of a mini-project in the Programming class at the University. It can be used both with the command line<br>
 or with GUI. The tool has the following capabilities:<br>
   -Searching for all files, files with a specific extensions, files with a specific content and extension and modified files before a specific date<br>
   -Encrypt and decrypt files with a basic substituation cipher<br>
